@@ -1,0 +1,55 @@
+body {
+	font-family: "Verdana", serif;
+	font-size: 6pt;
+}
+
+p {
+  margin: 0em;
+}
+
+.h2{
+	font-size: 14pt;
+}
+
+.personal-details{
+	text-align: center;
+	font-size: 8.5pt;
+}
+
+div{
+	margin-top:20px;
+}
+
+
+table {
+  	border-collapse: collapse;
+  	width: 60%;
+  	margin-left:auto;
+  	margin-right:auto;
+}
+
+tr.border-bottom {
+  	border-bottom: 1pt solid black;
+  	text-align: left;
+	font-size: 8.5pt;
+}
+
+tr.bold-text{
+	font-weight: bold;
+}
+
+
+ul.a {
+  list-style-type: disc;
+}
+
+td.right-side{
+	width: 50%;
+	text-align:right;"
+}
+
+
+td.left-side{
+	width: 50%;
+	text-align:left;"
+}
